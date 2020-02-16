@@ -1,4 +1,4 @@
-//This program reads sales information from a file and writing out a bar chart for each of the stores.
+//This program reads sales information from a file and writes out a bar chart for each of the stores.
 //The bar charts will be created by writing out a sequence of * characters.
 
 #include <iostream>
